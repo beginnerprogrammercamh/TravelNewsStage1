@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Travel News</string>
+    <string name="no_network">No network connection.</string>
+    <string name="no_news">No news articles have been found. Please try back later.</string>
+</resources>
